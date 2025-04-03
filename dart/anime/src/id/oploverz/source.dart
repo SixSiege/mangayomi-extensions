@@ -6,7 +6,7 @@ const _oploverzCodeUrl =
     "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/$branchName/dart/anime/src/id/oploverz/oploverz.dart";
 Source _oploverz = Source(
   name: "Oploverz",
-  baseUrl: "https://oploverz.gold",
+  baseUrl: "https://oploverz.ch",
   lang: "id",
   typeSource: "single",
   iconUrl:
